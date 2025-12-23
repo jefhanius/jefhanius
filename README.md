@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! i'm Jef
 
 <!--
 **jefhanius/jefhanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔐 I’m looking for **Cyber Security** mentor!
+- ⛓️‍💥 I’m currently learning **Penetration Testing** and **Hashing**!
+
+![Gojo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ2Mm4weHdvbWh1OTdnMmZ2cDdsb2thYjR0ZjFrcndmM29ub2R2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WldPA6tzPPSgZDxiJc/giphy.gif)
